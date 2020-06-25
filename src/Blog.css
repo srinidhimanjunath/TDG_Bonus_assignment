@@ -1,0 +1,18 @@
+label {
+  font-size: 30px;
+  margin-top: 20px;
+}
+
+input {
+  width: 480px;
+  margin-top: 20px;
+  padding: 10px;
+  font-size: 30px;
+  border: none;
+  border-bottom: solid 2px #c9c9c9;
+  transition: border 0.3s;
+}
+
+.country {
+  padding: 10px;
+}
