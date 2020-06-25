@@ -1,3 +1,5 @@
+In order to run this application first you need to create a react app using the command create-react-app and you also nned to install axios and react-router-dom using npm install --save axios and npm install --save react-router-dom
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
